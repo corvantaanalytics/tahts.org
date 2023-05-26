@@ -1821,7 +1821,7 @@ textarea.form-control {
   color: #e8e8e8;
 }
 
-.form-row {
+/* .form-row {
   display: -ms-flexbox;
   display: flex;
   -ms-flex-wrap: wrap;
@@ -1833,7 +1833,7 @@ textarea.form-control {
 .form-row>[class*=col-] {
     padding-right: 5px;
     padding-left: 5px;
-}
+} */
 
 .input-with-icon {
     position: relative;
@@ -10431,7 +10431,7 @@ small {
 }
 
 .container-healthfair .count-btn{
-  margin: 0 1rem;
+  /* margin: 0 1rem; */
 }
 
 .container-healthfair .active{
